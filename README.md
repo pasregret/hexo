@@ -10,7 +10,9 @@
 
 初始化： hexo init
         npm install
-        
+
+​        
+
     hexo g  hexo s  本地运行
     hexo d 到github 需要配置git ssh
 
@@ -29,7 +31,7 @@ deploy:
   type: git
   repository: git@github.com:dingxind/dingxind.github.io.git
   branch: master
-  
+
 安装扩展：
 npm i hexo-deployer-git
 

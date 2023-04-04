@@ -36,6 +36,16 @@ npm i hexo-deployer-git
 新建博客： hexo new post "article title"
 
 
+图片展示不出来问题：
+npm install https://github.com/CodeFalling/hexo-asset-image --save 
+修改node_modules 中的  hexo-asset-image index文件第58行改为 src 
+_config.yml中的post_asset_folder设为true
+
+
+安装bufferfix运行报错问题：
+hexo安装博客踩坑：extends includes/layout.pug block content #recent-posts.recent-posts include includes/rec
+安装  npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
+
 
 
 

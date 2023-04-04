@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io/categories/index.html</loc>
+    <loc>http://example.com/2023/04/04/%E6%9C%80%E5%90%8E%E4%B8%80%E9%81%8D%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2023-04-04</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io/tags/index.html</loc>
+    <loc>http://example.com/categories/index.html</loc>
     
     <lastmod>2023-04-04</lastmod>
     
@@ -20,7 +20,16 @@
   </url>
   
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io/2023/04/03/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://example.com/tags/index.html</loc>
+    
+    <lastmod>2023-04-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2023/04/03/%E6%B5%8B%E8%AF%95/</loc>
     
     <lastmod>2023-04-03</lastmod>
     
@@ -29,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io/2023/04/03/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
+    <loc>http://example.com/2023/04/03/%E9%9D%A2%E8%AF%95%E9%A2%98/</loc>
     
     <lastmod>2023-04-03</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io/2023/04/03/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</loc>
+    <loc>http://example.com/2023/04/03/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</loc>
     
     <lastmod>2023-04-03</lastmod>
     
@@ -48,7 +57,7 @@
   
 
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io</loc>
+    <loc>http://example.com/</loc>
     <lastmod>2023-04-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -56,19 +65,26 @@
 
   
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>http://example.com/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2023-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://github.com/dingxind/dingxind.github.io/tags/%E9%A2%98%E7%9B%AE/</loc>
+    <loc>http://example.com/tags/%E9%A2%98%E7%9B%AE/</loc>
     <lastmod>2023-04-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://example.com/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-04-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>

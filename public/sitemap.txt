@@ -1,0 +1,6 @@
+http://example.com/2023/04/03/%E6%B5%8B%E8%AF%95/
+http://example.com/2023/04/03/%E9%9D%A2%E8%AF%95%E9%A2%98/
+http://example.com/2023/04/03/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/
+http://example.com/
+http://example.com/tags/%E6%B5%8B%E8%AF%95/
+http://example.com/tags/%E9%A2%98%E7%9B%AE/

@@ -4,16 +4,23 @@
 
 # Site
 title: 解忧杂货铺
-subtitle: '一个日常积累的小破店'
+tags: highlight
+categories:   
+  - 77
+  - 88
 description: '我不是大佬，只是个会编码的程序员'
-keywords:
-author: 丁新东
+keywords: '博客，记录'
+abbrlink: dda8c81b
+author: 時念
 language: en
 timezone: ''
+top_img: /themes/hexo-theme-butterfly/source/img/background.PNG
+cover: https://file.crazywong.com/gh/jerryc127/CDN@latest/cover/default_bg.png
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/dingxind/dingxind.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
